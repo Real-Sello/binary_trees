@@ -18,7 +18,7 @@ General
 <hr>
 
 ![img](/images/yomama.png)
-*I dare you to translate this*
+*I dare you to translate this binary message*
 
 # More Info
 ## Data structures
