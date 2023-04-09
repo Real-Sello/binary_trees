@@ -18,7 +18,6 @@ General
 <hr>
 
 ![img](/images/yomama.png)
-{:.image-caption}
 *I dare you to translate this*
 
 # More Info
