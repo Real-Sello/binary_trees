@@ -20,6 +20,6 @@ return (NULL);
 
 if (grandparent->left == node->parent)
 return (grandparent->right);
-
+else
 return (grandparent->left);
 }
